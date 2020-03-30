@@ -9,5 +9,6 @@ def toadstool
 end
 
 def link 
-abvise = 
+advise = "It's Dangerous To Go Alone! Take This."
+puts advise
 end
