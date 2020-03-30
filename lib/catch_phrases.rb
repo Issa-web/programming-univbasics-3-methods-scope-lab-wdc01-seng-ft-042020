@@ -12,3 +12,7 @@ def link
 advise = "It's Dangerous To Go Alone! Take This."
 puts advise
 end
+
+def 
+
+end
