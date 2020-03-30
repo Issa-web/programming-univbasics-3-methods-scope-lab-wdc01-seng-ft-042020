@@ -13,7 +13,7 @@ advise = "It's Dangerous To Go Alone! Take This."
 puts advise
 end
 
-def all_phrases
+def all_phrases (mario, toadstool, link)
   mario ()
   toadstool()
   link()
